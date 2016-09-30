@@ -14,6 +14,10 @@ module.exports = {
 
     this.emit(':tellWithCard', speechOutput, SKILL_NAME, randomPhrase);
   },
+  'WhistleIntent': function () {
+    console.log("WhisteIntent fired...");
+    this.emit(':tellWithCard', "whistle whistle whistle whistle", SKILL_NAME, 'whistle');
+  },
   'AMAZON.HelpIntent': function () {
     console.log("HelpIntent fired...");
     var speechOutput = "You can say give me a phrase, or, you can say exit... What can I help you with?";

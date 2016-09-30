@@ -14,6 +14,10 @@ module.exports = {
 
     this.emit(':tellWithCard', speechOutput, SKILL_NAME, randomPhrase);
   },
+  'WhistleIntent': function () {
+    console.log("WhistleIntent fired...");
+    this.emit(':tellWithCard', "pfeifen pfeifen pfeifen pfeifen", SKILL_NAME, 'pfeifen');
+  },
   'AMAZON.HelpIntent': function () {
     console.log("HelpIntent fired...");
     var speechOutput = "Sie können mir eine Phrase sagen geben, oder, Ausfahrt sagen kann ... Was kann ich Ihnen helfen?";
