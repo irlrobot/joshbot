@@ -1,0 +1,17 @@
+{
+  "name": "joshbot",
+  "version": "1.0.0",
+  "description": "Joshbot 9000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa"
+  ],
+  "author": "joshcb",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6"
+  }
+}
