@@ -15,10 +15,13 @@ exports.handler = function(event, context, callback) {
   console.log("Locale is:  " + locale);
   alexa.appId = APP_ID;
   if (locale == 'en-GB') {
+    console.log("registering en-gb.handler...");
     alexa.registerHandlers(enGbHandlers);
   } else if (locale == 'de-DE') {
+    console.log("registering de-de.handler...");
     alexa.registerHandlers(deDeHandlers);
   } else {
+    console.log("registering en-us.handler...");
     alexa.registerHandlers(enUsHandlers);
   }
   alexa.execute();
