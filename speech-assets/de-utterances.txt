@@ -1,0 +1,4 @@
+PhraseIntent für eine Phrase
+PhraseIntent für eine Phrase bitte
+PhraseIntent für eine zufällige Phrase
+PhraseIntent für eine zufällige Phrase bitte
