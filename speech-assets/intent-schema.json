@@ -1,16 +1,16 @@
 {
   "intents":[
     {
-        "intent": "PhraseIntent"
+      "intent": "PhraseIntent"
     },
     {
-        "intent": "AMAZON.HelpIntent"
+      "intent": "AMAZON.HelpIntent"
     },
     {
-        "intent": "AMAZON.StopIntent"
+      "intent": "AMAZON.StopIntent"
     },
     {
-        "intent": "AMAZON.CancelIntent"
+      "intent": "AMAZON.CancelIntent"
     }
   ]
 }
