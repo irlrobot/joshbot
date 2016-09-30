@@ -1,2 +1,12 @@
-PhraseIntent für eine Phrase
-PhraseIntent für eine zufällige Phrase
+PhraseIntent for a phrase
+PhraseIntent for a phrase please
+PhraseIntent for a random phrase
+PhraseIntent for a random phrase please
+PhraseIntent give me a phrase
+PhraseIntent give me a phrase please
+PhraseIntent give me a random phrase
+PhraseIntent give me a random phrase please
+PhraseIntent can I have a phrase
+PhraseIntent can I have a phrase please
+PhraseIntent can I have a random phrase
+PhraseIntent can I have a random phrase please
