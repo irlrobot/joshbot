@@ -10,6 +10,7 @@ var Alexa = require('alexa-sdk');
 
 exports.handler = function(event, context, callback) {
   console.log("Starting Joshbot...");
+  console.log("Intent is:  " + event.request.intent.name);
   var alexa = Alexa.handler(event, context);
   var locale = event.request.locale;
   console.log("Locale is:  " + locale);
