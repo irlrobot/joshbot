@@ -4,6 +4,9 @@
       "intent": "PhraseIntent"
     },
     {
+      "intent": "WhistleIntent"
+    },
+    {
       "intent": "AMAZON.HelpIntent"
     },
     {

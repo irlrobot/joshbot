@@ -10,3 +10,5 @@ PhraseIntent can I have a phrase
 PhraseIntent can I have a phrase please
 PhraseIntent can I have a random phrase
 PhraseIntent can I have a random phrase please
+WhistleIntent to whistle
+WhistleIntent to whistle please
