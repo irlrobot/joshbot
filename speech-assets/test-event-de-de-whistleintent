@@ -1,0 +1,25 @@
+{
+  "session": {
+    "sessionId": "SessionId.8b3f743a-a1e6-43b6-ac28-09269ae74d15",
+    "application": {
+      "applicationId": "amzn1.ask.skill.0384c6ee-ec9e-4773-9062-d0a3c31c0e6e"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.AHFMRFWQOJT3BVKU7LIBTJO3XWLESU5BPFNTDSP4IIT4QMJWKBRYOPOKDK3LBKIZXMBTA3DJFABFQEWHQILVH32BRILWU2QJHTBRRYKXUBZEOUO7HPRDUIPGW3WXPC4SJIZFPPH4OQCOAJIQ43V5ZLBK2IKE7GE2PL2VX43C2IL3K2DS6WBOFYF4UFM4OZNDBAQUFKZN2WWYA5Q",
+      "accessToken": "Atza|IwEBIMVt_NxQl0QVryHfT3HBtre-p6YLgbgkpCvhyu3U-QylAzESVknOzfvTgtm2JrW2DaeAJZXcRVmevbx7OHe4IIRKvYwqwJA8WoPy8MqHB3sIbg-P8FlQc2SiDLC0lUo8iunoJOpebLsaw_Iv3B7P2IdyQoIT0tJe4y4wLBRQFeZ8gKFtOHJC3GHWEQSludz_fTZGuBECcjP8nine9OHslm3O4WebcOL320VfDt3z0uowWPufx8JrfiKZ_9EPM2aE451CD6cqgolgwCjj9hdeN61MDH9tvtK7APp79xI3ozzEMv99c37M5kTSeIFaZr2qyyEi6aVpQDJs3iflkqV1mdHyrQVXj6XJx8-5Ipho-vQCi3F5mGGO27pxqop6XWipYI1BWfK2PpAmM8zes3cMPv9NnZr1c2fNmlQ7Rbh09r5oBJ74w4XlXCmBCrvVX2isZWtH5zVwq2PKvrWMYT4QBh35yfNE7tBaXTQfaehyFTcrdWLzUGZOj49a9gYjbx-mbyJGfRk8fK-s3fWbWUhcVRSqO4qUyn7VqSQgJDISNwzhzQ"
+    },
+    "new": true
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.76657404-e01b-42f7-924b-628411e78caf",
+    "locale": "de-DE",
+    "timestamp": "2016-09-30T18:41:45Z",
+    "intent": {
+      "name": "WhistleIntent",
+      "slots": {}
+    }
+  },
+  "version": "1.0"
+}
